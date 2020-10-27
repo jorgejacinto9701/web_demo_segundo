@@ -14,7 +14,7 @@
 <body>
 
 <div class="container">
-<h1>Registra Modalidad</h1>
+<h1>Registra Modalidad - Jacinto</h1>
 
 	<c:if test="${sessionScope.MENSAJE != null}">
 		<div class="alert alert-success fade in" id="success-alert">
